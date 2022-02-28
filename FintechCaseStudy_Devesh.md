@@ -15,7 +15,7 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve? - Account recievables is one of the biggest problem for a startup or a budding business, leaving them with low or no cash to support and run the business, but businesses will need to give credit to their buyers to be competitive. FundThrough supports such businesses by paying these invoices upfront to the business with a nominal fees and improve their cash flow to buy inventory, pay employees etc. The business's customer pay this back to Fundthrough based on the invoice terms.(d)
+* What specific financial problem is the company or project trying to solve? - Account recievables is one of the biggest problem for a startup or a budding business, leaving them with low or no cash to support and run the business, but these businesses need to give credit to their buyers to be competitive. FundThrough supports such businesses by paying these invoices upfront to with a nominal fees and improve their cash flow to support new inventory, pay employees etc. The business's customer pay this back to Fundthrough based on the invoice terms.(d)
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers? - The company targets small and medium business across North Amercia, it appears to the market size is very big but there is not specific data available. I also believe the penetration is very minimal as yet.
 
